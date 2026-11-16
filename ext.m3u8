@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-SESSION-DATA:DATA-ID="eyevinn.tv.session.id",VALUE="fast1"
+#EXT-X-SESSION-DATA:DATA-ID="eyevinn.tv.eventstream",VALUE="/eventstream/fast1"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_aud",LANGUAGE="en",NAME="English",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://cdn-canalextremadura.watchity.net/fast1/master-group_aud_en.m3u8%3Bsession=fast1"
+#EXT-X-STREAM-INF:BANDWIDTH=324586,RESOLUTION=416x234,CODECS="avc1.64000D,mp4a.40.2",AUDIO="group_aud"
+https://cdn-canalextremadura.watchity.net/fast1/master324586.m3u8%3Bsession=fast1
+#EXT-X-STREAM-INF:BANDWIDTH=471661,RESOLUTION=640x360,CODECS="avc1.64001E,mp4a.40.2",AUDIO="group_aud"
+https://cdn-canalextremadura.watchity.net/fast1/master471661.m3u8%3Bsession=fast1
+#EXT-X-STREAM-INF:BANDWIDTH=584829,RESOLUTION=768x432,CODECS="avc1.64001E,mp4a.40.2",AUDIO="group_aud"
+https://cdn-canalextremadura.watchity.net/fast1/master584829.m3u8%3Bsession=fast1
+#EXT-X-STREAM-INF:BANDWIDTH=799817,RESOLUTION=960x540,CODECS="avc1.64001F,mp4a.40.2",AUDIO="group_aud"
+https://cdn-canalextremadura.watchity.net/fast1/master799817.m3u8%3Bsession=fast1
+#EXT-X-STREAM-INF:BANDWIDTH=2248046,RESOLUTION=1280x720,CODECS="avc1.64001F,mp4a.40.2",AUDIO="group_aud"
+https://cdn-canalextremadura.watchity.net/fast1/master2248046.m3u8%3Bsession=fast1
+#EXT-X-STREAM-INF:BANDWIDTH=9602303,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2",AUDIO="group_aud"
+https://cdn-canalextremadura.watchity.net/fast1/master9602303.m3u8%3Bsession=fast1
